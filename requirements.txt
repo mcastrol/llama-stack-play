@@ -1,4 +1,4 @@
 llama-stack-client
 geocoder
 python-dotenv
-src
+fire
